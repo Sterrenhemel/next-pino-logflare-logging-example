@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
 You'll find various logging examples from the client and the server with `console`, only `pino` and `pino-logflare`.
 
 You can get client and server side logs going to Logflare from one `logger` interface with the config found here:
